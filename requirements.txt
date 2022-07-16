@@ -108,6 +108,7 @@ Pillow @ file:///C:/ci/pillow_1617386341487/work
 prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1618088486455/work
 prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1616415428029/work
 protobuf==3.13.0
+python-3.10.5
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
